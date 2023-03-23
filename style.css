@@ -1,0 +1,53 @@
+body{
+    height: 1500px;
+    background: url(https://phonoteka.org/uploads/posts/2021-04/1618651104_3-phonoteka_org-p-zadnii-fon-igrovoi-3.jpg) ;
+}
+.title{
+    background-color: rgb(114, 2, 184);
+    padding: 5px;
+    border-radius: 5px;
+    text-align: center;
+    color: #0f023e;
+
+
+}
+.number{
+    width: 1000px;
+    height: 1000px;
+    background: url(https://oir.mobi/uploads/posts/2021-03/thumbs/1616528707_49-p-fon-dlya-chata-53.jpg);
+    margin: 100px 0 0 100px;
+    padding: 10%;
+}
+.number{
+    display: inline-block;
+}
+.list{
+    display: inline-block;
+}
+.list2{
+    display: inline-block;
+    margin: 0 0 0 370px;
+}
+.title__1{
+    color: #ffffff;
+    margin: 0 0 0 75px;
+}
+.title__2{
+    color: #ffa51f;
+    margin: 0 0 0 75px;
+}
+.list3{
+    display: inline-block;
+}
+.list4{
+    display: inline-block;
+    margin: 0 0 0 370px;
+}
+.title__3{
+    color: #7e7e7e;
+    margin: 50px 0 0 100px;
+}
+.title__4{
+    color: #ff0000;
+    margin: 0 0 0 100px;
+}
